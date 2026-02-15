@@ -36,4 +36,11 @@ The agent trained for 2500 episodes with randomized task switching.
 | **MountainCar**| ~2200 | **-112.5** | Successful Climb |
 | **Pendulum** | ~2400 | **-245.1** | Smooth (Minimal Wobble) |
 
+## 📊 Learning Progress
+![DDQN Training Graph](results_graph.png)
+
+<p align="center">
+  <img src="agent_grid_view.gif" width="600" title="Multi-Task Agent Demo">
+</p>
+
 It proves that with the right embeddings and stability filters (DDQN), a neural network can indeed function as a Universal Controller.
