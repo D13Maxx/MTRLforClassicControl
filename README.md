@@ -43,4 +43,8 @@ The agent trained for 2500 episodes with randomized task switching.
   <img src="agent_grid_view.gif" width="600" title="Multi-Task Agent Demo">
 </p>
 
-It proves that with the right embeddings and stability filters (DDQN), a neural network can indeed function as a Universal Controller.
+**It proves that with the right embeddings and stability filters (DDQN), a neural network can indeed function as a Universal Controller.**
+
+## Part 4 Future Plans:
+
+In the near future I am planning to add other control tasks like temperature control, volume control, pressure control and magnetic levitation to my project and progress further towards building a true general control agent.
